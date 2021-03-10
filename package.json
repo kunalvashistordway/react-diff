@@ -1,6 +1,6 @@
 {
   "name": "react-diff-component",
-  "version": "0.1.5",
+  "version": "0.1.5.1",
   "description": "React diff string component",
   "main": "lib/index.js",
   "scripts": {
@@ -34,11 +34,11 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.3"
   },
-  "author": "Lefortov",
-  "homepage": "https://github.com/Lefortov/react-diff",
+  "author": "Kunal Vashist",
+  "homepage": "https://github.com/kunalvashistordway/react-diff.git",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Lefortov/react-diff.git"
+    "url": "git@github.com:kunalvashistordway/react-diff.git"
   },
   "dependencies": {
     "diff": "^3.5.0"
